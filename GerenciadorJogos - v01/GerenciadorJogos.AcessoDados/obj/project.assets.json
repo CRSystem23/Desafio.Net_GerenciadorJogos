@@ -752,6 +752,9 @@
       "GerenciadorJogos.Generico/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.2.0"
+        },
         "compile": {
           "bin/placeholder/GerenciadorJogos.Generico.dll": {}
         },
@@ -3003,11 +3006,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vilma\\Documents\\DesafioInvillia\\GerenciadorJogos\\GerenciadorJogos.AcessoDados\\GerenciadorJogos.AcessoDados.csproj",
+      "projectUniqueName": "C:\\Users\\vilma\\Documents\\DesafioInvillia\\Desafio.Net_GerenciadorJogos\\GerenciadorJogos - v01\\GerenciadorJogos.AcessoDados\\GerenciadorJogos.AcessoDados.csproj",
       "projectName": "GerenciadorJogos.AcessoDados",
-      "projectPath": "C:\\Users\\vilma\\Documents\\DesafioInvillia\\GerenciadorJogos\\GerenciadorJogos.AcessoDados\\GerenciadorJogos.AcessoDados.csproj",
+      "projectPath": "C:\\Users\\vilma\\Documents\\DesafioInvillia\\Desafio.Net_GerenciadorJogos\\GerenciadorJogos - v01\\GerenciadorJogos.AcessoDados\\GerenciadorJogos.AcessoDados.csproj",
       "packagesPath": "C:\\Users\\vilma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vilma\\Documents\\DesafioInvillia\\GerenciadorJogos\\GerenciadorJogos.AcessoDados\\obj\\",
+      "outputPath": "C:\\Users\\vilma\\Documents\\DesafioInvillia\\Desafio.Net_GerenciadorJogos\\GerenciadorJogos - v01\\GerenciadorJogos.AcessoDados\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3026,11 +3029,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\vilma\\Documents\\DesafioInvillia\\GerenciadorJogos\\GerenciadorJogos.Dominio\\GerenciadorJogos.Dominio.csproj": {
-              "projectPath": "C:\\Users\\vilma\\Documents\\DesafioInvillia\\GerenciadorJogos\\GerenciadorJogos.Dominio\\GerenciadorJogos.Dominio.csproj"
+            "C:\\Users\\vilma\\Documents\\DesafioInvillia\\Desafio.Net_GerenciadorJogos\\GerenciadorJogos - v01\\GerenciadorJogos.Dominio\\GerenciadorJogos.Dominio.csproj": {
+              "projectPath": "C:\\Users\\vilma\\Documents\\DesafioInvillia\\Desafio.Net_GerenciadorJogos\\GerenciadorJogos - v01\\GerenciadorJogos.Dominio\\GerenciadorJogos.Dominio.csproj"
             },
-            "C:\\Users\\vilma\\Documents\\DesafioInvillia\\GerenciadorJogos\\GerenciadorJogos.Generico\\GerenciadorJogos.Generico.csproj": {
-              "projectPath": "C:\\Users\\vilma\\Documents\\DesafioInvillia\\GerenciadorJogos\\GerenciadorJogos.Generico\\GerenciadorJogos.Generico.csproj"
+            "C:\\Users\\vilma\\Documents\\DesafioInvillia\\Desafio.Net_GerenciadorJogos\\GerenciadorJogos - v01\\GerenciadorJogos.Generico\\GerenciadorJogos.Generico.csproj": {
+              "projectPath": "C:\\Users\\vilma\\Documents\\DesafioInvillia\\Desafio.Net_GerenciadorJogos\\GerenciadorJogos - v01\\GerenciadorJogos.Generico\\GerenciadorJogos.Generico.csproj"
             }
           }
         }

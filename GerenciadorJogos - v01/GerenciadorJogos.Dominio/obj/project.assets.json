@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vilma\\Documents\\DesafioInvillia\\GerenciadorJogos\\GerenciadorJogos.Dominio\\GerenciadorJogos.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\vilma\\Documents\\DesafioInvillia\\Desafio.Net_GerenciadorJogos\\GerenciadorJogos - v01\\GerenciadorJogos.Dominio\\GerenciadorJogos.Dominio.csproj",
       "projectName": "GerenciadorJogos.Dominio",
-      "projectPath": "C:\\Users\\vilma\\Documents\\DesafioInvillia\\GerenciadorJogos\\GerenciadorJogos.Dominio\\GerenciadorJogos.Dominio.csproj",
+      "projectPath": "C:\\Users\\vilma\\Documents\\DesafioInvillia\\Desafio.Net_GerenciadorJogos\\GerenciadorJogos - v01\\GerenciadorJogos.Dominio\\GerenciadorJogos.Dominio.csproj",
       "packagesPath": "C:\\Users\\vilma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vilma\\Documents\\DesafioInvillia\\GerenciadorJogos\\GerenciadorJogos.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\vilma\\Documents\\DesafioInvillia\\Desafio.Net_GerenciadorJogos\\GerenciadorJogos - v01\\GerenciadorJogos.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

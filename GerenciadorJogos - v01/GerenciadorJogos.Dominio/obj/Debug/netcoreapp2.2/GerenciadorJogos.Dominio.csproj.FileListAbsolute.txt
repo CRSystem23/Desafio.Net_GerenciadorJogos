@@ -7,3 +7,19 @@ C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos.Domin
 C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos.Dominio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.dll
 C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos.Dominio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.pdb
 C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos.Dominio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.csprojAssemblyReference.cache
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Dominio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.deps.json
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Dominio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Dominio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Dominio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Dominio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.AssemblyInfoInputs.cache
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Dominio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.AssemblyInfo.cs
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Dominio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Dominio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Dominio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.deps.json
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Dominio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Dominio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Dominio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Dominio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.AssemblyInfoInputs.cache
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Dominio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.AssemblyInfo.cs
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Dominio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Dominio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.pdb

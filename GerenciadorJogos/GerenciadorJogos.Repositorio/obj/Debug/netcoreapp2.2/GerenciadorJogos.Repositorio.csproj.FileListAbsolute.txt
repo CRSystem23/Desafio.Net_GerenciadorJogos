@@ -14,3 +14,35 @@ C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos.Repos
 C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.csproj.CopyComplete
 C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.dll
 C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.deps.json
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.AcessoDados.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Generico.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.AcessoDados.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Generico.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.csprojAssemblyReference.cache
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.AssemblyInfoInputs.cache
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.AssemblyInfo.cs
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.csproj.CopyComplete
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.deps.json
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.AcessoDados.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Generico.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.AcessoDados.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Dominio.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Repositorio\bin\Debug\netcoreapp2.2\GerenciadorJogos.Generico.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.csprojAssemblyReference.cache
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.AssemblyInfoInputs.cache
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.AssemblyInfo.cs
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.csproj.CopyComplete
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos - v02\GerenciadorJogos.Repositorio\obj\Debug\netcoreapp2.2\GerenciadorJogos.Repositorio.pdb

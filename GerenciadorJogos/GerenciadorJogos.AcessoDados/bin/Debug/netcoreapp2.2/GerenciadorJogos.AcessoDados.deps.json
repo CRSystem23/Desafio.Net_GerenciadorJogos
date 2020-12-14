@@ -365,6 +365,9 @@
         }
       },
       "GerenciadorJogos.Generico/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.2.0"
+        },
         "runtime": {
           "GerenciadorJogos.Generico.dll": {}
         }
