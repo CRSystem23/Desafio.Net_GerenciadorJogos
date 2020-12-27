@@ -1,9 +1,0 @@
-C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos\bin\Debug\netcoreapp2.2\GerenciadorJogos.deps.json
-C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos\bin\Debug\netcoreapp2.2\GerenciadorJogos.dll
-C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos\bin\Debug\netcoreapp2.2\GerenciadorJogos.pdb
-C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos\obj\Debug\netcoreapp2.2\GerenciadorJogos.csprojAssemblyReference.cache
-C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos\obj\Debug\netcoreapp2.2\GerenciadorJogos.csproj.CoreCompileInputs.cache
-C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos\obj\Debug\netcoreapp2.2\GerenciadorJogos.AssemblyInfoInputs.cache
-C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos\obj\Debug\netcoreapp2.2\GerenciadorJogos.AssemblyInfo.cs
-C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos\obj\Debug\netcoreapp2.2\GerenciadorJogos.dll
-C:\Users\vilma\Documents\DesafioInvillia\GerenciadorJogos\GerenciadorJogos\obj\Debug\netcoreapp2.2\GerenciadorJogos.pdb

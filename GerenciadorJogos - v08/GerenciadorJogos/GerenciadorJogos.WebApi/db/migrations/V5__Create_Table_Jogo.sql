@@ -1,5 +1,0 @@
-CREATE TABLE IF NOT EXISTS `Jogo` (
-  `Id` int NOT NULL AUTO_INCREMENT,
-  `Nome` varchar(100) NOT NULL,
-  PRIMARY KEY (`Id`)
-);
