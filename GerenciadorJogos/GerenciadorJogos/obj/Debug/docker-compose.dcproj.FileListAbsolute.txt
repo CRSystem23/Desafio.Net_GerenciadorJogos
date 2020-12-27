@@ -1,0 +1,13 @@
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos\bin\Debug\GerenciadorJogos.WebApi.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos\bin\Debug\GerenciadorJogos.Generico.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos\bin\Debug\GerenciadorJogos.Dominio.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos\bin\Debug\GerenciadorJogos.Repositorio.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos\bin\Debug\GerenciadorJogos.AcessoDados.dll
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos\bin\Debug\GerenciadorJogos.WebApi.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos\bin\Debug\GerenciadorJogos.Generico.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos\bin\Debug\GerenciadorJogos.Dominio.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos\bin\Debug\GerenciadorJogos.Repositorio.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos\bin\Debug\GerenciadorJogos.AcessoDados.pdb
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\vilma\Documents\DesafioInvillia\Desafio.Net_GerenciadorJogos\GerenciadorJogos\GerenciadorJogos\obj\Debug\docker-compose.dcproj.CopyComplete

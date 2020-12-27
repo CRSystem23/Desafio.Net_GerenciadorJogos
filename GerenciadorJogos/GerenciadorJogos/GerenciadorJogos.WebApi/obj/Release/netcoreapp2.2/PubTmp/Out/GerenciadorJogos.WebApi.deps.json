@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "ac3e09f1e24b61870d125f8de2ab906329407f9d"
+    "signature": "6faeb5d22d6538769a445afa3bf9d5d2637fca34"
   },
   "compilationOptions": {
     "defines": [
@@ -210,6 +210,17 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll": {}
+        }
+      },
+      "Moq/4.5.0": {
+        "runtime": {
+          "lib/net45/Moq.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "4.5.0.0"
+          }
+        },
+        "compile": {
+          "lib/net45/Moq.dll": {}
         }
       },
       "MySqlConnector/0.49.2": {
@@ -480,7 +491,8 @@
         "dependencies": {
           "GerenciadorJogos.Dominio": "1.0.0",
           "GerenciadorJogos.Generico": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "2.2.0"
+          "Microsoft.EntityFrameworkCore": "2.2.0",
+          "Moq": "4.5.0"
         },
         "runtime": {
           "GerenciadorJogos.AcessoDados.dll": {}
@@ -3785,6 +3797,13 @@
       "sha512": "sha512-0gVuA4KUCHFM4M/9SjG+7j7BzZ7SW/BufF97Q78i2VV8JBbQXc/5Rf6YUG1VGW2fwSEOl9+S26utEGS+86GGGw==",
       "path": "microsoft.visualstudio.web.codegenerators.mvc/2.2.3",
       "hashPath": "microsoft.visualstudio.web.codegenerators.mvc.2.2.3.nupkg.sha512"
+    },
+    "Moq/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RMXNiLcvhdpGYZcN41pbJc9HC+PYB7+0a9QteJDKQ6sadFgo1FuYFV+xyADfFJalXzoZx5T40ypx8yX3bk0b5A==",
+      "path": "moq/4.5.0",
+      "hashPath": "moq.4.5.0.nupkg.sha512"
     },
     "MySqlConnector/0.49.2": {
       "type": "package",

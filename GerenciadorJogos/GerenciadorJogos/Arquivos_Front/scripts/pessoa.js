@@ -1,7 +1,7 @@
 var tbody = document.querySelector('table tbody');
 var pessoa = {};
 
-var IP_SERVIDOR = "crsystem23.hopto.org:7777";
+var IP_SERVIDOR = "localhost:51136";
 
 $.getJSON("config/servidor.json", function(data) {
     IP_SERVIDOR = data.servidor;
